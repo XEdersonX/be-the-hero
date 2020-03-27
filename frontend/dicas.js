@@ -4,3 +4,15 @@
 
 //Executar react na pasta do projeto
 //npm start
+
+
+
+
+
+
+
+
+
+
+//Instalar cliente HTTP
+//npm install axios

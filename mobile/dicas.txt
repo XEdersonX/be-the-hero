@@ -1,0 +1,67 @@
+-- PARA INSTAR EXPO NO MAC
+sudo su
+sudo npm install -g expo-cli
+expo -h
+
+
+-- PARA CRIAR UM PROJETO
+expo init mobile
+
+
+-- Para abrir projeto no visual code
+code .
+
+
+-- PARA EXECUTAR NO CELULAR
+yarn start
+
+
+-- INSTALAR O EMULADOR
+https://www.youtube.com/watch?v=eSjFDWYkdxM&vl=pt
+
+
+-- Emulador no navegador online
+https://snack.expo.io
+
+
+-- DOCUMENTACAO DO EXPO
+https://docs.expo.io/versions/latest/
+
+
+
+--INSTALANDO BiBLIOTECA NAVIGATION PARA O ROUTES - USANDO TERMINAL DO PROJETO
+npm install @react-navigation/native
+
+https://reactnavigation.org/docs/getting-started
+
+https://reactnavigation.org/docs/hello-react-navigation
+
+
+
+-- QUANDO DA ERRO
+rm -rf node_modules/
+
+yarn install ou npm install
+
+
+
+-- Instalnado Pacote - para obter algumas informacoes que sao fixas para cada projeto
+expo install expo-constants
+
+
+
+
+-- PACOTE DE ESCRITA DE EMAIL DO EXPO - ABRIR O EMAIL POR CIMA DA APLICACAO
+expo install expo-mail-composer
+
+https://docs.expo.io/versions/latest/sdk/mail-composer/
+
+
+
+
+-- Instalando AXIOS
+npm install axios
+
+
+-- INSTALANDO PACOTE PARA FORMATACAO DO VALOR EM FORMATO DE DINHEIRO - para conseguir usar intl no android, ja que no ios funciona o intl
+npm install intl

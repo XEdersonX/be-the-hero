@@ -1,0 +1,33 @@
+-- Biblioteca para fazer validação
+npm install celebrate
+
+https://github.com/arb/celebrate#joi
+https://hapi.dev/api/?v=19.1.1
+
+
+
+
+-- JEST FRAMEWORK DE TESTES DA APLICACAO
+npm install jest
+
+npx jest --init
+
+npm test
+
+npm install cross-env       //Para saber se tu ta ambiente de test ou desenvolvimento na aplicacao
+
+npm install supertest -D
+
+
+
+
+-- DICAS DE HOSPEDAGENS
+https://www.youtube.com/watch?v=-j7vLmBMsEU
+
+https://www.heroku.com
+https://www.digitalocean.com
+https://www.netlify.com
+
+
+
+
